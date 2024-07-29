@@ -1,2 +1,1 @@
-# Intro-to-DS
- "This repository is for practicing the GitHub Flow."
+Data Analyst/Data Engineer/Data Scientist
